@@ -18,4 +18,4 @@ Executing Task
 ID: 102
 Name: Backup
 Priority: 8
-Execution Time: 300 ms
+Execution Time: 300 ms.
